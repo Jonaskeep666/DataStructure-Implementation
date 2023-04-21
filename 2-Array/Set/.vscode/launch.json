@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": true,
+      "cwd": "/Users/jonaswu/Desktop/CS/Projects/Practice/DS/Set",
+      "program": "/Users/jonaswu/Desktop/CS/Projects/Practice/DS/Set/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb"
+    }
+  ]
+}
