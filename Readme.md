@@ -5,22 +5,22 @@ This repository contains all the data structure implementations I learned in my 
 ----
 
 ## Content
-[Folder] 2-Array
+[Folder] 02-Array
 
-[Folder] 3-Stack
+[Folder] 03-Stack
 - Stack、Queue、Infix_to_Postfix、Postfix_Evaluation_stack
 
-[Folder] 4-Linked List
+[Folder] 04-Linked List
 - Single Linked List、Double Linked List、General Linked List
 - Equivalence_Classe、Sparse_Matrix
 
-[Folder] 5-BasicTree
+[Folder] 05-BasicTree
 - BinaryTree、SAT Problem、ThreadBT、Heap、BST
 
-[Folder] 6-Graph
+[Folder] 06-Graph
 - Traversal(DFS、BFS)、MST(Kruskal、Prim)、Shortest_Dijkstra
 
-[Folder] 7-Sorting
+[Folder] 07-Sorting
 - Searching(Linear/Binary)
 - Basic Sort
     1.  void insertionSort(T *a,int n)
@@ -42,7 +42,7 @@ This repository contains all the data structure implementations I learned in my 
     3.  void cRadixSort(T *a, int r, int n)
     4.  void bucketSort(T *a, int r, int n)
 
-[Folder] 8-Hash
+[Folder] 08-Hash
 - Directory、Directoryless
 
 [Folder] 10-AdvancedTree
