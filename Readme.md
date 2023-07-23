@@ -1,6 +1,6 @@
 # DataStructure Implementation
 
-<img src="assert/BvsRB.jpeg" width=500>
+<img src="assets/BvsRB.jpeg" width=500>
 
 This repository contains all the data structure implementations I learned in my DS class and the class assignments. I made every effort to implement every single structure by myself.
 
